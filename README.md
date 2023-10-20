@@ -4,14 +4,14 @@ This repository contains Java programs that demonstrate various programming task
 
 ## Table of Contents
 
-1. [Task 1: Inform Even or Odd]
-2. [Task 2: Mathematical Operators]
-3. [Task 3: Sort Numbers]
-4. [Task 4: Difference Between Greatest and Smallest]
-5. [Task 5: Placeholder for Task 5]
-6. [Task 6: Placeholder for Task 6]
-7. [Task 7: Placeholder for Task 7]
-8. [Task 8: Placeholder for Task 8]
+1. [Task 1: LiteralExamples]
+2. [Task 2: LogicalOperatorPermutations]
+3. [Task 3: NumericLiterals]
+4. [Task 4: Operator Test]
+5. [Task 5: IntegerSum]
+6. [Task 6: Even Odd Checker]
+7. [Task 7: Sort Numbers]
+8. [Task 8: Difference Between Greatest and Smallest]
 
 ## Tasks Questions
 
